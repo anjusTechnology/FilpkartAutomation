@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  <suite name ="First cycle">
+ 
+  <test name ="test cycle">
+  
+  
+  <classes>
+  <class name ="com.prateek.selnium.ClassOne">
+  
+  
+  </class>
+  
+  </classes>
+  
+  
+  </test>
+  
+  
+  
+  </suite>
+
+  
+  
+  
